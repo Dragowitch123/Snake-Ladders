@@ -6,7 +6,7 @@ Snake-and-Ladder Snake and ladder is a simple game consists of snakes and ladder
 There might be a few bugs for example continous movement of the same piece.
 this problem will be fixed soon.
 
-#Update
 **********************************
+# Update
 The bug is fixed and this program is ready to use.
 
